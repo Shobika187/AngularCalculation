@@ -178,9 +178,7 @@ App.component.html:
   
 </Cylinder-Vol>
 
-<div class="footer">DEVELOPED BY: kiran.S</div>
 
-    </div>
 
 </div>
 
