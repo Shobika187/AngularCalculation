@@ -207,7 +207,6 @@ export class AppModule { }
 ```
 ## OUTPUT:
 ![Output](https://github.com/Shobika187/AngularCalculation/blob/main/image2.png)
-### Home Page:
-
 
 ## Result:
+web page for mathematical calculation is successfully created using angular.
